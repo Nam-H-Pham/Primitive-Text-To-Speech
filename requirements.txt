@@ -1,0 +1,3 @@
+playsound==1.2.2
+Wave==0.0.2
+PyAudio==0.2.13
